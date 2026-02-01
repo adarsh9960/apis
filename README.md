@@ -6,7 +6,7 @@ Backend API for InstaTool - Multi-Platform Social Media Automation
 
 ### One-Click Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/insta-tools-backend)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/adarsh9960/insta-tools-backend)
 
 ### Manual Deploy
 
